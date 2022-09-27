@@ -123,17 +123,19 @@ body {
 @media screen and (max-width: 375px) {
     .card {
         width: 300px;
-        height: 630px;
+        /* height: 630px; */
+        height: 740px;
     }
 
     .flex-container {
         display: flex;
         flex-direction: column;
-        height: 650px;
+        height: 740px;
     }
 
     .left-section {
-        height: 290px;
+        /* height: 290px; */
+        height: 400px;
     }
 
     .perfume-image {
